@@ -1,6 +1,8 @@
 # SnakeAI
 A snake game and computer agents to play it! Have fun writing your own agents! This code is written in Matlab. You don't need additional software.
 
+![Sample Screen](SampleScreen.png)
+
 To run this program, run the script 'SnakeGame.m' in Matlab.
 
      >>SnakeGame
